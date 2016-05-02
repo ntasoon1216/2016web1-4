@@ -3,10 +3,13 @@
 body{
   background-color:#e6e6fa;
 }
-h1 span {
+h1{
   font-size:1.85em;
   color:#cd5c5c;
   text-align:center;
+}
+h1 span{
+  color:333333;
 }
 h2{
   font-size:1.35em;
