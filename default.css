@@ -1,1 +1,38 @@
+@chaeset"UTF-8";
 
+body{
+  background-color:#e6e6fa;
+}
+h1{
+  font-size:1.85em;
+  color:#cd5c5c;
+  text-align:center;
+}
+h2{
+  font-size:1.35em;
+  color:#cd5c5c;
+  border:#e6e6fa 1px dotted;/*変更点*/
+  border-left:#e6e6fa 10px solid;
+  margin-bottom:2;
+  padding:5px 20px;
+}
+p{
+  font-size:0.9em;
+  background-color:#6495ed;
+  color:#9370db;
+  line-height:1.75em;
+}
+li{
+   font-size:0.9em;
+  color:#9370db;
+}
+address{
+  font-size:0.75em;
+  font-weight:bold;
+}
+a{
+  color:#008000;
+}
+a:hover{
+  color:#9370db;
+}
